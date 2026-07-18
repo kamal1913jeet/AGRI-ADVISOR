@@ -133,11 +133,8 @@ Workflow:
 
 <img width="340" height="421" alt="image" src="https://github.com/user-attachments/assets/e088fc21-ce34-47e4-8b26-0c61132b92a1" />
 
-Home Page
 
 Prediction Page
-
-Result Page
 
 ---
 
