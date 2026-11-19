@@ -183,7 +183,3 @@ This project demonstrates:
 **Kamaljeet Kaur**
 
 AI | Machine Learning | Data Science | Python Developer
-
-
-GitHub:
-(Add GitHub Link)
